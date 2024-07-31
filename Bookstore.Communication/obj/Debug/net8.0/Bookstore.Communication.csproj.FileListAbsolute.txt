@@ -1,0 +1,11 @@
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\bin\Debug\net8.0\Bookstore.Communication.deps.json
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\bin\Debug\net8.0\Bookstore.Communication.dll
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\bin\Debug\net8.0\Bookstore.Communication.pdb
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\Bookstore.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\Bookstore.Communication.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\Bookstore.Communication.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\Bookstore.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\Bookstore.Communication.dll
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\refint\Bookstore.Communication.dll
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\Bookstore.Communication.pdb
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\ref\Bookstore.Communication.dll
