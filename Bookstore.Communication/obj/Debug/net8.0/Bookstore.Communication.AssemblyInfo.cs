@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bookstore.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d514a00dfe0a9259541c2e10a1526d7c1b095bcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bookstore.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bookstore.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

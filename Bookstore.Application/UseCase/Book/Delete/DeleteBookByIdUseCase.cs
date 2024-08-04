@@ -1,11 +1,14 @@
-﻿namespace Bookstore.Application.UseCase.Book.Delete;
+﻿using Bookstore.Application.UseCase.Book.Register;
+using Bookstore.Application.UseCase.Rewrite_File;
+
+namespace Bookstore.Application.UseCase.Book.Delete;
 
 public class DeleteBookByIdUseCase
 {
     public void Execute(int id)
     {
-        string filePath = "listaLivros.txt";
+        RegisterBookUseCase.allBooks = RegisterBookUseCase.allBooks.Where(x => x.Id != id).ToList();
 
-        File.WriteAllText(filePath, string.Empty);
+        RewriteFile.RewriteFileDB();
     }
 }

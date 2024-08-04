@@ -52,6 +52,7 @@ public class BookController : ControllerBase
     }
 
     [HttpDelete]
+    [Route("{id}")]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
     public IActionResult Delete([FromRoute] int id)
     {

@@ -13,3 +13,4 @@ C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Application\obj\Debug\net8.0\B
 C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Application\obj\Debug\net8.0\refint\Bookstore.Application.dll
 C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Application\obj\Debug\net8.0\Bookstore.Application.pdb
 C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Application\obj\Debug\net8.0\ref\Bookstore.Application.dll
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Application\obj\Debug\net8.0\Bookstore.Application.sourcelink.json

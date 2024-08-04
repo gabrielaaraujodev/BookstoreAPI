@@ -34,3 +34,4 @@ C:\Users\Gabriel\source\repos\Bookstore\Bookstore.API\obj\Debug\net8.0\refint\Bo
 C:\Users\Gabriel\source\repos\Bookstore\Bookstore.API\obj\Debug\net8.0\Bookstore.API.pdb
 C:\Users\Gabriel\source\repos\Bookstore\Bookstore.API\obj\Debug\net8.0\Bookstore.API.genruntimeconfig.cache
 C:\Users\Gabriel\source\repos\Bookstore\Bookstore.API\obj\Debug\net8.0\ref\Bookstore.API.dll
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.API\obj\Debug\net8.0\Bookstore.API.sourcelink.json

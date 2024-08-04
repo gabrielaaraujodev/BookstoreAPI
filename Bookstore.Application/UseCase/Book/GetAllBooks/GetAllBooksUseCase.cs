@@ -1,12 +1,13 @@
 ﻿using Bookstore.Application.UseCase.Book.Register;
+using Bookstore.Communication.Requests;
 using Bookstore.Communication.Responses;
 using System.Text;
 namespace Bookstore.Application.UseCase.Book.GetAllBooks;
 
-public class GetAllBooksUseCase:RegisterBookUseCase
+public class GetAllBooksUseCase
 {
-    public List<string> Execute()
+    public List<RequestBookJson> Execute()
     {
-        return allBooks;
+        return RegisterBookUseCase.allBooks;
     }
 }

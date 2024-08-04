@@ -9,3 +9,4 @@ C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0
 C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\refint\Bookstore.Communication.dll
 C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\Bookstore.Communication.pdb
 C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\ref\Bookstore.Communication.dll
+C:\Users\Gabriel\source\repos\Bookstore\Bookstore.Communication\obj\Debug\net8.0\Bookstore.Communication.sourcelink.json

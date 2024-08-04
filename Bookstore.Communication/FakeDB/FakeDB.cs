@@ -2,6 +2,7 @@
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Nodes;
+
 public class FakeDB
 {
     public void FillDB(RequestBookJson request)
@@ -17,6 +18,5 @@ public class FakeDB
         {
             Console.WriteLine("Mesage: " + e.Message);
         }
-    }
-
+    } 
 }

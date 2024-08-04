@@ -6,7 +6,7 @@ namespace Bookstore.Application.UseCase.Book.Register;
 
 public class RegisterBookUseCase
 {
-    public static List<string> allBooks = new List<string>();
+    public static List<RequestBookJson> allBooks = new List<RequestBookJson>();
     public void Execute(RequestBookJson request)
     {
         saveBooks(request);
@@ -15,7 +15,6 @@ public class RegisterBookUseCase
 
     private void saveBooks(RequestBookJson request)
     {
-        string requestString = JsonSerializer.Serialize(request);
-        allBooks.Add(requestString);
+        allBooks.Add(request);
     }
 }
